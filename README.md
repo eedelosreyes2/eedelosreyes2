@@ -3,7 +3,7 @@
 A Full Stack Engineer who enjoys crafting web applications displaying intuitive, user-friendly, and functional interfaces with attention to detail.
 
 #### I am currently:
-- up for hire for full time, fully remote, Full Stack Engineer positions 💼
+<!-- - up for hire for full time, fully remote, Full Stack Engineer positions 💼 -->
 - focused on providing as much value as I can 🤝
 - learning Data Structures & Algorithms and System Architecture 🛠️
 
