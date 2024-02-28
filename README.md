@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Elijah
 
 <!-- A Full Stack Engineer who enjoys crafting web applications displaying intuitive, user-friendly, and functional interfaces with attention to detail. -->
-A detail-oriented Full Stack Engineer with 4+ years of experience in startups and large companies dedicated to delivering high-quality solutions aligned with business needs. Proficient in modern web technologies including Typescript, Next.js, Tailwind, and Prisma, I enjoy crafting fluid user experiences.
+A detail-oriented Full Stack Engineer with 4+ years of experience in startups and large companies dedicated to delivering high-quality solutions aligned with business needs. Proficient in modern web technologies including Typescript, Next.js, Tailwind, and Prisma, I enjoy crafting fluid and robust user experiences.
 
 
 #### I am currently:
@@ -11,7 +11,7 @@ A detail-oriented Full Stack Engineer with 4+ years of experience in startups an
 
 #### Let's chat 
 - You can reach out to me at delosreyes.elijah@gmail.com 📫
-- Check out my work at https://elijahdelosreyes.com 👨‍💻
+- Check out my work at [elijahdelosreyes.com](https://elijahdelosreyes.com) 👨‍💻
 - Share my [resume](https://docs.google.com/document/d/1d4RoqYYNbrwPaepyhaiCJWB0r4oaE36h/edit?usp=sharing&ouid=109616170858905528270&rtpof=true&sd=true) 💪
 
 <!--
