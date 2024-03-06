@@ -11,7 +11,7 @@ A detail-oriented Full Stack Engineer with 4 years of experience developing and 
 #### Let's chat 
 - You can reach out to me at delosreyes.elijah@gmail.com 📫
 - Check out my work at [elijahdelosreyes.com](https://elijahdelosreyes.com) 👨‍💻
-- Share my [resume](https://docs.google.com/document/d/1d4RoqYYNbrwPaepyhaiCJWB0r4oaE36h/edit?usp=sharing&ouid=109616170858905528270&rtpof=true&sd=true) 💪
+- Share my [resume](https://docs.google.com/document/d/1CV8piJzFbmi_BZY5aCRWMCKDLp7Qbt-Z) 💪
 
 <!--
 **eedelosreyes2/eedelosreyes2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
