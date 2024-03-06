@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Elijah
 
 <!-- A Full Stack Engineer who enjoys crafting web applications displaying intuitive, user-friendly, and functional interfaces with attention to detail. -->
-A detail-oriented Full Stack Engineer with 4+ years of experience in startups and large companies dedicated to delivering high-quality solutions aligned with business needs. Proficient in modern web technologies including Typescript, Next.js, Tailwind, and Prisma, I enjoy crafting fluid and robust user experiences.
-
+A detail-oriented Full Stack Engineer with 4 years of experience developing and maintaining web applications using modern technologies such as Typescript, Next, and Prisma. As a professional in startups and large companies, I've honed the skills necessary to efficiently deliver high-quality solutions that align with user and stakeholder needs.
 
 #### I am currently:
 - looking for Full Stack Engineer opportunities 💼
