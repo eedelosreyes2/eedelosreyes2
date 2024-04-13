@@ -4,7 +4,7 @@
 A detail-oriented Full Stack Engineer with 4 years of experience developing and maintaining web applications using modern technologies such as Typescript, Next, and Prisma. As a professional in startups and large companies, I've honed the skills necessary to efficiently deliver high-quality solutions that align with user and stakeholder needs.
 
 #### I am currently:
-- looking for Full Stack Engineer opportunities 👀
+- looking for Frontend Engineering opportunities 👀
 - focused on providing as much value as I can 🤝
 <!-- - learning Data Structures & Algorithms and System Architecture 🛠️ -->
 
