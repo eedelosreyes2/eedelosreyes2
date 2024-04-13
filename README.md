@@ -8,10 +8,10 @@ A detail-oriented Full Stack Engineer with 4 years of experience developing and 
 - focused on providing as much value as I can 🤝
 <!-- - learning Data Structures & Algorithms and System Architecture 🛠️ -->
 
-#### Let's chat 
+#### Let's chat! 
 - You can reach out to me at delosreyes.elijah@gmail.com 📫
 - Check out my work at [elijahdelosreyes.com](https://elijahdelosreyes.com) 👨‍💻
-- Share my [resume](https://docs.google.com/document/d/1CV8piJzFbmi_BZY5aCRWMCKDLp7Qbt-Z) 💪
+- Share my [resume](https://www.elijahdelosreyes.com/Elijah%20Delos%20Reyes%20-%20Frontend%20Engineer.pdf) 💪
 
 <!--
 **eedelosreyes2/eedelosreyes2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
