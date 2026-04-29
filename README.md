@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Elijah
 
-<!-- A Full Stack Engineer who enjoys crafting web applications displaying intuitive, user-friendly, and functional interfaces with attention to detail. -->
-A detail-oriented Full Stack Engineer with 5+ years of experience developing and maintaining web applications using modern technologies such as Typescript, Stencil.js, and AWS. As a professional in startups and large companies, I've honed the skills to efficiently deliver high-quality solutions that align with user and stakeholder needs.
+A Full Stack Engineer with 5+ years of experience, specializing in Frontend. I build fast, clean, production-ready UIs for enterprise-scale products using TypeScript, Next.js, and AWS — leveraging AI tools daily to ship faster and smarter. 
 
 #### I am currently:
 - looking for Frontend Engineering opportunities 👀
