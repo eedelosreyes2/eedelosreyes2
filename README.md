@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Elijah
 
-Full Stack Engineer with 5+ years of experience specializing in high-performance Frontend. Expert in building scalable, production-ready UIs for enterprise products using TypeScript, Next.js, and AWS, while leveraging AI-assisted development daily to accelerate delivery and optimize code quality.
+Full Stack Engineer with 6+ years of experience specializing in high-performance Frontend. Expert in building scalable, production-ready UIs for enterprise products using TypeScript, Stencil.js, and AWS, while integrating AI-powered tools (GitHub Copilot, Claude) into daily development workflows.
+
 
 <!--
 #### I am currently:
