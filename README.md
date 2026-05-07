@@ -12,4 +12,4 @@ Full Stack Engineer with 6+ years of experience specializing in high-performance
 #### Let's chat! 
 - You can reach out to me at delosreyes.elijah@gmail.com 📫
 - Check out my work at [elijahdelosreyes.com](https://elijahdelosreyes.com) 👨‍💻
-- Share my [resume](https://www.elijahdelosreyes.com/Elijah%20Delos%20Reyes%20-%20Frontend%20Engineer.pdf) 💪
+- Share my [resume](https://www.elijahdelosreyes.com/Elijah_Delos_Reyes_Full_Stack_Engineer.pdf) 💪
